@@ -4,6 +4,7 @@ public class gruppTest {
 
 	public static void main(String[] args) {
 		System.out.println("Hanna was here");
+		System.println("Eric was here now");
 	}
 	
 }
